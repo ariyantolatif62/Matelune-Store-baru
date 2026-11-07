@@ -1,0 +1,5 @@
+node_modules/
+toko.db
+toko.db-shm
+toko.db-wal
+.env
